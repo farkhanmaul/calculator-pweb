@@ -1,2 +1,2 @@
 # kalkulator
-Berisi Kalkulator Tugas Pemrograman Web
+Repo ini berisi Kalkulator Tugas Pemrograman Web
