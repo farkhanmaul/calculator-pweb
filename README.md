@@ -1,6 +1,5 @@
 # 📚 Calculator
-
-This repository contains the programming code of a very simple **Calculator** project.
+This repository contains programming code from a very simple **Calculator** project to fulfill an assignment from a basic web programming course.
 
 ## ⚙️Tech Stack
 
